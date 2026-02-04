@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,a as t}from"./index-CasWfnaT.js";const c="/static/web/images/loading.png",n={},r={class:"loading-box"};function _(i,o){return e(),a("div",r,[...o[0]||(o[0]=[t("img",{src:c,alt:""},null,-1)])])}const l=s(n,[["render",_],["__scopeId","data-v-0f5a0e3c"]]);export{l as C};
